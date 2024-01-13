@@ -1,0 +1,960 @@
+Дата и время вызова функции: 2024-01-13 14:48:54.855681 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:48:56.801755 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:48:58.972214 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:00.591992 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:02.180790 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:03.703808 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:05.024962 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:06.245846 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:07.153247 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:08.045936 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:09.029626 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:11.609870 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:12.438679 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:13.263751 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:49:14.362482 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:33.595034 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:35.288569 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:37.015565 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:39.188367 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:42.687444 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:44.225801 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:45.577329 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:46.884734 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:47.949675 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:49.128382 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:50.462465 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:51.713666 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:52.902897 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:54.328025 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:55.593271 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:50:56.985773 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:00.053052 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:03.005872 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:04.524936 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:06.192122 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:07.600759 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:08.597511 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:09.791426 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:11.035733 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:12.165806 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:13.553673 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:14.676269 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:16.467265 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:17.836878 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:24.519731 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:25.937380 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:27.144160 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:28.150963 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:29.482799 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:30.663472 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:32.520905 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:34.628253 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:36.223436 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:37.408631 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:42.198319 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:43.347149 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:44.606314 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:46.173452 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:47.208670 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:48.282200 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:49.482017 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:50.762479 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:52.001671 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:53.200477 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:54.469541 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:55.717038 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:56.878997 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:51:58.323681 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:05.591484 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:07.228562 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:08.424875 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.83 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:09.731682 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:10.617289 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:11.471065 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:12.630943 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:14.238674 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:14.969369 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:15.811004 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:16.915731 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:17.873393 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:18.821773 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:19.592123 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:20.310176 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:21.168714 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:21.919367 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:23.139226 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:24.260207 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:25.202235 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:26.028492 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:27.709416 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:52:28.569408 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:01.267103 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:02.227538 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:03.294222 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:04.499493 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:05.432519 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:06.578687 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:07.650546 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:08.648020 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:09.351385 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:10.278544 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:10.998039 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:11.758592 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:12.704074 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:13.437097 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:14.406947 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.78 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:15.509549 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:16.467847 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:17.661957 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:18.432797 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:19.330458 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:20.278288 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:21.119657 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:21.899732 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:22.867936 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:23.755782 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:24.714582 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:25.582458 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:26.520045 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:27.271953 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:28.109787 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:29.175447 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:30.232858 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:31.223895 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:32.029582 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.167 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:32.880938 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:33.883525 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:34.673090 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:35.535312 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:36.557041 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:37.809635 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:38.572551 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:39.834128 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:40.901819 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:41.949629 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:42.901779 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:43.832403 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:44.669097 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:45.981854 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:46.904762 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:47.712129 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:48.676414 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:49.591047 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:50.659373 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:51.458091 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:52.352073 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:53.245560 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:54.287640 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:55.444162 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:56.308314 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:57.229293 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:58.512893 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:53:59.364533 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:00.206196 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:01.051875 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:01.927192 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:02.955454 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:04.038722 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:05.023010 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:05.815191 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:06.662003 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:07.691829 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:08.560541 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:09.428140 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:10.434744 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:11.226994 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:12.165122 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:13.050141 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:13.971678 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:15.230558 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:16.494178 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:17.290669 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:18.076759 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:19.178859 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:20.096454 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:20.881672 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:21.996637 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:22.956300 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:23.927643 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:24.747568 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:25.816117 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:27.127627 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:27.945926 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:28.736107 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:29.462981 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:30.455831 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:31.340349 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:32.110126 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:32.787362 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:33.795806 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:34.774319 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36'} 
+
+Дата и время вызова функции: 2024-01-13 14:54:35.671422 
+Имя функции: get_headers 
+Аргументы функции () {} 
+Результат работы функции: {'Accept': '*/*', 'Connection': 'keep-alive', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'} 
+
